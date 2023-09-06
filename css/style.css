@@ -1,3 +1,9 @@
+* {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Phudu', cursive;
+}
+
 section {
     width: 100%;
     min-height: 100vh;
@@ -42,7 +48,7 @@ section {
     margin: auto;
 }
 
-.mycards> .card {
+.mycards>.card {
     margin-top: 10px;
     margin-bottom: 10px;
 }
